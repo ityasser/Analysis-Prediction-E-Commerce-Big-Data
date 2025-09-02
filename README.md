@@ -7,6 +7,10 @@ The study uses a large-scale **User Behavior Dataset from Taobao (Alibaba)**, co
 cart additions, favorites, and purchases. The goal is to extract valuable insights, segment customers, and develop 
 predictive models using deep learning.
 
+## DataSet
+used large-scale **User Behavior Dataset from Taobao (Alibaba)**
+**Link:** https://tianchi.aliyun.com/dataset/649
+
 ## Pipeline
 The project follows a complete pipeline:
 1. **Data Preprocessing**
