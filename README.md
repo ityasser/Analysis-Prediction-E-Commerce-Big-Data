@@ -8,8 +8,7 @@ cart additions, favorites, and purchases. The goal is to extract valuable insigh
 predictive models using deep learning.
 
 ## DataSet
-used large-scale **User Behavior Dataset from Taobao (Alibaba)**
-**Link:** https://tianchi.aliyun.com/dataset/649
+used large-scale **User Behavior Dataset from Taobao (Alibaba)** From **Link:** https://tianchi.aliyun.com/dataset/649
 
 ## Pipeline
 The project follows a complete pipeline:
